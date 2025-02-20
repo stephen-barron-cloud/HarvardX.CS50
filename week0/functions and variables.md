@@ -1,4 +1,4 @@
-# Functions
+mo# Functions
 ## work files
 - [./hello.py](./hello.pyhello.py)
 - [./hello2.py](./hello2.py)
@@ -36,11 +36,13 @@ named parameters can be passed in at the end of the function, and have specific 
 methods are functions that are built into a type of value
 
 ## Operators on integers
+```
 +
 -
 *
 /
 %
+```
 
 # Interactive Mode
 ```
