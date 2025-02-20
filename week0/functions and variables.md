@@ -1,8 +1,8 @@
 # Functions
 ## work files
-- [./hello.py](hello.py)
-- [./hello2.py](hello2.py)
-- [./hello3.py](hello3.pyhello3.py)
+- [./hello.py](./hello.pyhello.py)
+- [./hello2.py](./hello2.py)
+- [./hello3.py](./hello3.pyhello3.py)
 - [./greeting.py](./greeting.py)
 
 ## Print
@@ -53,3 +53,10 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> print(var_number)
 >>> exit() 
 ```
+
+## Problem Submission
+- [Indoor Voice](./indoor.py)
+- [Playback Speed](./playback.py)
+- [Making Faces](./faces.py)
+- [Einstein](./einstein.py)
+- [Tip Calculator](./wizard.py)
