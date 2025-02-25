@@ -4,7 +4,9 @@
 - [cat.py](cat.py)
 - [cat2.py](cat2.py)
 - [hogwarts](./hogwarts.py)
+- [mario.py](./mario.py)
 
+## While loop
 '''
 while i < m:
         action
