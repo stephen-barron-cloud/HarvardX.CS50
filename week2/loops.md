@@ -23,8 +23,11 @@ for i in [0, 1, 2]:
 key value stores
 
 '''
-for i in [0, 1, 2]:
-    print("meow")
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
 '''
 
 ## new function range
