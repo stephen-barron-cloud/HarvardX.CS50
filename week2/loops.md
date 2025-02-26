@@ -67,9 +67,8 @@ def main5():
 ```
 
 ## Problem Submission
-
-[camelCase](./camel.py)
-[Coke Machine](./coke.py)
-[Just setting up my twttr](./twttr.py)
-[Vanity Plates](./plates.py)
-[Nutrition Facts](./nutrition.py)
+- [camelCase](./camel.py)
+- [Coke Machine](./coke.py)
+- [Just setting up my twttr](./twttr.py)
+- [Vanity Plates](./plates.py)
+- [Nutrition Facts](./nutrition.py)
